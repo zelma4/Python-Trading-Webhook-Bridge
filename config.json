@@ -1,5 +1,6 @@
 {
-    "buy_message": "BUY_NOW",
-    "sell_message": "SELL_NOW",
-    "exit_message": "EXIT_POSITION"
+    "webhook_url": "https://wtalerts.com/bot/trading_view",
+    "buy_message": "ENTER-LONG_BINANCE_BTCUSDC_BOT-NAME-2 with tsl_1M_xxxxxxxx",
+    "sell_message": "ENTER-SHORT_BINANCE_BTCUSDC_BOT-NAME-2 with tsl_1M_xxxxxxxx",
+    "exit_message": "EXIT-ALL_BINANCE_BTCUSDC_BOT-NAME-2 with tsl_1M_xxxxxxxx"
   }
