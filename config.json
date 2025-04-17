@@ -1,6 +1,6 @@
 {
     "webhook_url": "https://wtalerts.com/bot/trading_view",
-    "buy_message": "ENTER-LONG_BINANCE_BTCUSDC_BOT-NAME-2 with tsl_1M_xxxxxxxx",
-    "sell_message": "ENTER-SHORT_BINANCE_BTCUSDC_BOT-NAME-2 with tsl_1M_xxxxxxxx",
-    "exit_message": "EXIT-ALL_BINANCE_BTCUSDC_BOT-NAME-2 with tsl_1M_xxxxxxxx"
+    "buy_message": "ENTER-LONG_BINANCE_BTCUSDC_BOT-NAME-2 with tsl_1M_1a1615658fab5a9faef28d74",
+    "sell_message": "ENTER-SHORT_BINANCE_BTCUSDC_BOT-NAME-2 with tsl_1M_1a1615658fab5a9faef28d74",
+    "exit_message": "EXIT-ALL_BINANCE_BTCUSDC_BOT-NAME-2 with tsl_1M_1a1615658fab5a9faef28d74"
   }
